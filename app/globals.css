@@ -1,0 +1,17 @@
+@import 'tailwindcss/preflight';
+@import 'tailwindcss/utilities';
+
+/* Add Fumadocs theme */
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+/* Customize Necta brand colors */
+:root {
+	--color-fd-primary: #fe5e00;
+	--color-fd-primary-foreground: white;
+}
+
+.dark {
+	--color-fd-primary: #fe5e00;
+	--color-fd-primary-foreground: white;
+}
