@@ -41,12 +41,12 @@ export const baseOptions: BaseLayoutProps = {
 		},
 		{
 			text: 'Github',
-			url: 'https://github.com/necta-xyz',
+			url: 'https://github.com/NectaFi',
 			active: 'nested-url',
 		},
 		{
 			text: 'X',
-			url: 'https://x.com/necta_xyz',
+			url: 'https://x.com/NectaFi',
 			active: 'nested-url',
 		},
 	],

@@ -24,7 +24,7 @@ export default function YieldBlogPost() {
 
 			<h1>What is Yield?</h1>
 
-			<p className="text-zinc-500 dark:text-zinc-400">Jan 2025</p>
+			<p className="text-zinc-500 dark:text-zinc-400">Feb 2025</p>
 
 			<p className="lead">
 				This article explains crypto yield in simple terms, provides examples of its
